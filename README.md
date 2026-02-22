@@ -8,7 +8,6 @@ check-list of QA tasks that need to be done in order to merge the PR.
 
 To configure, add a new workflow in `.github/workflows`, configuring it like this:
 
-```yaml
 name: qa-checklist
 
 on:
